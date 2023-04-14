@@ -1,0 +1,28 @@
+{
+  "name": "socialnetapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "express": "^4.17.1",
+    "mongoose": "^6.9.2",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eskevin14th/Develop18-Social-Network-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eskevin14th/Develop18-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/eskevin14th/Develop18-Social-Network-API#readme"
+}
